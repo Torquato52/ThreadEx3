@@ -12,7 +12,7 @@ public class Main {
 		for (int i = 0; i < 3; i++) {
 
 			for (int x = 0; x <5; i++) {
-				matriz[i][x] = (int) Math.random();
+				matriz[i][x] = (int) (Math.random() * 100);
 			}
 		}
 		

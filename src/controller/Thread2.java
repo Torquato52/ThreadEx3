@@ -18,7 +18,7 @@ private int matriz[];
 		for(int i = 0; i < matriz.length; i++ ) {
 			soma = matriz[i] + soma;
 		}
-		System.out.println("A soma da linha 1 é: "+soma);
+		System.out.println("A soma da linha 2 é: "+soma);
 	}
 
 }
